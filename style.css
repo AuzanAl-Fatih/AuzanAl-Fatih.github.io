@@ -103,8 +103,7 @@ html, body {
 /*-----------------------------------------------------------------------------------*/
 
 body {
-	background:url(style/images/maaf.png) repeat;
-	background-size: 35%;
+	background:url(style/images/gray.jpg) repeat;
 	font-size:62.5%;
 	font-weight: normal;
 	color:#4a4a4a;
